@@ -1,0 +1,27 @@
+{ "height":10,
+ "infinite":true,
+ "layers":[
+        {
+         "chunks":[],
+         "height":0,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "startx":0,
+         "starty":0,
+         "type":"tilelayer",
+         "visible":true,
+         "width":0,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.1.5",
+ "tileheight":16,
+ "tilesets":[],
+ "tilewidth":16,
+ "type":"map",
+ "version":1,
+ "width":14
+}

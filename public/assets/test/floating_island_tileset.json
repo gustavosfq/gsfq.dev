@@ -1,0 +1,12 @@
+{ "columns":23,
+ "image":"tiles_packed.png",
+ "imageheight":128,
+ "imagewidth":368,
+ "margin":0,
+ "name":"floating_island_tileset",
+ "spacing":0,
+ "tilecount":184,
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset"
+}
